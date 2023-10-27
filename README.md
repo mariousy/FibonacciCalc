@@ -12,6 +12,6 @@ javac FibonacciCalculator.java
 
 After compilation, you can run the program as follows:
 
-java FibonacciCalculator <n>
+java FibonacciCalculator "n"
 
-Where <n> is the position of the desired Fibonacci number.
+Where n is the position of the desired Fibonacci number.
